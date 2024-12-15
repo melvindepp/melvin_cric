@@ -1,0 +1,23 @@
+.visitOurFacebookAppNavbar {
+  background-color: #7c81ad;
+  color: white;
+}
+.navbar3rdpart {
+  background-color: #618264;
+}
+.sidebarBackground {
+  background-color: #e5dbd0;
+}
+/* .bg-login-image{
+  background-image: url("https://www.shutterstock.com/shutterstock/photos/137060996/display_1500/stock-photo-bank-vault-door-background-login-high-resolution-d-illustration-137060996.jpg");
+  
+} */
+.objectFit{
+  object-fit: cover;
+  object-position: center;
+}
+.footerBackgroundColor{
+  
+  background-color: #333c8b;
+  color: white
+}
